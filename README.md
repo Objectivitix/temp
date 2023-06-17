@@ -1,2 +1,2 @@
 # Temporary Project
-**Current project/experiment**: Minimalistic FizzBuzz
+**Current project/experiment**: GIPHY Cat Search
